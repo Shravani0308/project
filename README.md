@@ -1,0 +1,3 @@
+# student
+
+i completed bca
